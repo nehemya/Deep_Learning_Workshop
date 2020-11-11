@@ -1,5 +1,5 @@
 # Deep_Learning_Workshop
-"Practical Deep Learning Workshop" course in BGU. 
+"Practical Deep Learning Workshop" course at BGU. 
 
 In this course, I gained hands-on skills to build and train deep learning models in various domains.
 Each assignment has a relevant notebook with detailed code and work process and a final report of the task at hand.
