@@ -12,6 +12,6 @@ This repository contain 4 assignments as follows:
 
 -Assignment 3 - Product recommendations, siamese-networks, embedding, Feature extraction.
 
--Assignment 4 - Super resolutions.
+-Assignment 4 - Super resolutions for images.
 
 The work was done with Eden Levy.
